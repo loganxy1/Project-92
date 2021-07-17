@@ -1,0 +1,48 @@
+body{
+    background-color: midnightblue;
+    text-align: center;
+}
+
+h1{
+    font-size: 40;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+h2, h3, #blue{
+    font-size: 30px;
+    color: teal;
+}
+
+label{
+    font-size: 20px;
+}
+
+#player1, #player2{
+    height: 30px;
+}
+
+#button1{
+    height: 35px;
+    color:teal;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: cyan;
+}
+
+#img2,#img3{
+    height: 400px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+#img1{
+    height: 250px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#lab, #lab1{
+    color: teal;
+}

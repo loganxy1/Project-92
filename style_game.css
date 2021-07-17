@@ -1,0 +1,38 @@
+body{
+    background-color: midnightblue;
+}
+
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid cyan;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    width: 550px;
+}
+
+#imgA1, #imgA2{
+    width: 200px;
+    height:250px;
+}
+
+#imgA3{
+    width: 650;
+    height: 250px;
+}
+
+#n1, #n2{
+    width: 50%;
+}
+
+#send{
+    width: 150px;
+    height: 30px;
+    background-color:cyan;
+    color: teal;
+}
+
+#teal, #teal1, #teal2, #teal3, #teal4, #player1_name, #player2_name, #player1_score, #player2_score{
+    color: teal;
+}
